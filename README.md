@@ -1,5 +1,7 @@
 # calculator_ui
 
+link test : https://agustuslam12.github.io/calculator_ui/
+
 resource : Online Tutorial
 - https://www.youtube.com/watch?v=Q6FkM7CIKbc&t=668s
 
